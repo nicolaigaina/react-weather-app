@@ -1,9 +1,12 @@
-# React
+
+# React-Redux-Weather App
 ## Redux
 ### Google Maps
 #### Weather API
 
-Getting started:
+###Getting Started###
 
-> npm install
-> npm start
+```
+	> npm install
+	> npm start
+```
